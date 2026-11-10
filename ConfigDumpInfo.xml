@@ -181,8 +181,8 @@
 		<Metadata name="CommonForm.ФормаОбычная.Form" id="90e826ee-be38-464c-b702-693ef5b60a2d.0" configVersion="815e632de3a7ee4687a3ff4894566f2800000000"/>
 		<Metadata name="CommonForm.ФормаУправляемая" id="d06f914a-75f3-4d7d-b8c5-94b74aeadaad" configVersion="dee2fbd98c0a7445bb9cb73cf292497200000000"/>
 		<Metadata name="CommonForm.ФормаУправляемая.Form" id="d06f914a-75f3-4d7d-b8c5-94b74aeadaad.0" configVersion="2b17e4e4e2bbe74c88273e7128b8796000000000"/>
-		<Metadata name="CommonModule.Общий" id="768034ec-df19-451a-8a83-76f885d56ffb" configVersion="ffe5bdbe88a50a47889bad0934d35a7400000000"/>
-		<Metadata name="CommonModule.Общий.Module" id="768034ec-df19-451a-8a83-76f885d56ffb.0" configVersion="16efb1814b28384f9cc39ee907cfcaf900000000"/>
+		<Metadata name="CommonModule.Общий" id="768034ec-df19-451a-8a83-76f885d56ffb" configVersion="2ddfbe05b8658a4e84abd716f3965f5c00000000"/>
+		<Metadata name="CommonModule.Общий.Module" id="768034ec-df19-451a-8a83-76f885d56ffb.0" configVersion="f5f99c8a238da24082b79587ac58ae4900000000"/>
 		<Metadata name="Configuration.Типы1С" id="9a07b63a-e492-44a7-a9d5-a52608fd240a" configVersion="66f3bb124b68cc4e84faad9072ad43b300000000"/>
 		<Metadata name="Configuration.Типы1С.MainSectionCommandInterface" id="7e3887e5-81ce-46b5-ae8c-adc2acb07fb1.9" configVersion="208688cf5309c343b4b93aa3d2c3f91c00000000"/>
 		<Metadata name="Constant.ХранилищеНастроекСериализации" id="f917d044-40c0-4882-80fd-18a6dac4cc0d" configVersion="c014068bc9414a479bbac55f694b3efd00000000"/>
