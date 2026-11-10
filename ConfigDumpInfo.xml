@@ -183,9 +183,10 @@
 		<Metadata name="CommonForm.ФормаУправляемая.Form" id="d06f914a-75f3-4d7d-b8c5-94b74aeadaad.0" configVersion="2b17e4e4e2bbe74c88273e7128b8796000000000"/>
 		<Metadata name="CommonModule.Общий" id="768034ec-df19-451a-8a83-76f885d56ffb" configVersion="2ddfbe05b8658a4e84abd716f3965f5c00000000"/>
 		<Metadata name="CommonModule.Общий.Module" id="768034ec-df19-451a-8a83-76f885d56ffb.0" configVersion="f5f99c8a238da24082b79587ac58ae4900000000"/>
-		<Metadata name="Configuration.Типы1С" id="9a07b63a-e492-44a7-a9d5-a52608fd240a" configVersion="a185b1c8cc8ac14bb5f41af08292cf3000000000"/>
+		<Metadata name="Configuration.Типы1С" id="9a07b63a-e492-44a7-a9d5-a52608fd240a" configVersion="c584b86c3c9af246b483431d097ec58700000000"/>
 		<Metadata name="Configuration.Типы1С.MainSectionCommandInterface" id="7e3887e5-81ce-46b5-ae8c-adc2acb07fb1.9" configVersion="208688cf5309c343b4b93aa3d2c3f91c00000000"/>
 		<Metadata name="Configuration.Типы1С.ManagedApplicationModule" id="7e3887e5-81ce-46b5-ae8c-adc2acb07fb1.6" configVersion="cf5bac9f3d15224288d557ba1b9f95d400000000"/>
+		<Metadata name="Configuration.Типы1С.SessionModule" id="7e3887e5-81ce-46b5-ae8c-adc2acb07fb1.7" configVersion="e8bf7f37a6f4184b9c1a50aa9cd9b23800000000"/>
 		<Metadata name="Constant.ХранилищеНастроекСериализации" id="f917d044-40c0-4882-80fd-18a6dac4cc0d" configVersion="c014068bc9414a479bbac55f694b3efd00000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеАнглийскихСинонимов" id="69fcd88d-46cf-4d88-bf65-d904c9e6b7f5" configVersion="eed705826e96514cb07bca08c9b6e46400000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеАнглийскихСинонимов.Form.Форма" id="727c5380-9d21-48e2-87e3-be91a46c7960" configVersion="a3f2cd61d6800240b635ab124a088ddb00000000"/>
